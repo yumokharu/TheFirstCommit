@@ -1,2 +1,2 @@
-email :
-gitID :
+email : coyfm333@naver.com	
+gitID :	yumokharu
